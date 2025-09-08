@@ -1,12 +1,12 @@
 # TouristGuide-Ai-Agent
 
-🧳 Tourist Guide AI Agent (Built with n8n.io)
+**🧳 Tourist Guide AI Agent (Built with n8n.io)**
 
 An AI-powered Tourist Guide built using n8n.io
 .
 This agent helps users discover popular India tours, suggests itineraries, and integrates with Google Sheets to store and update queries for future reference.
 
-✨ Features
+**✨ Features**
 
 🗺️ Suggests popular India tours (Golden Triangle, Kerala Backwaters, Goa, etc.)
 
@@ -18,7 +18,7 @@ This agent helps users discover popular India tours, suggests itineraries, and i
 
 🧠 Memory-enabled conversations for contextual replies
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 n8n.io – Workflow automation platform
 
@@ -28,7 +28,7 @@ Google Sheets – Storing and updating user queries
 
 Custom Webhook Chat UI – For tourist interactions
 
-⚙️ Workflow Overview
+**⚙️ Workflow Overview**
 
 Trigger: Chat message received (Webhook)
 
